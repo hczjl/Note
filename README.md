@@ -54,7 +54,7 @@ wget -N --no-check-certificate "https://raw.githubusercontent.com/chiakge/Linux-
 
 安装BBR plus需要先安装内核
 
-![](https://gitee.com/hczjl/pic/raw/master/linux/bbr-1.png)
+![](https://raw.githubusercontent.com/hczjl/Note/main/pic/bbr-1.png)
 
 如图，分别选择 2 和 7，根据提示即可开启成功。
 
