@@ -61,10 +61,8 @@ wget -N --no-check-certificate "https://raw.githubusercontent.com/chiakge/Linux-
 ### 备份
 
 ```bash
-wget -N --no-check-certificate "https://raw.githubusercontent.com/chiakge/Linux-NetSpeed/master/tcp.sh" && chmod +x tcp.sh && ./tcp.sh
+wget -N --no-check-certificate "https://raw.githubusercontent.com/hczjl/Note/main/tcp.sh" && chmod +x tcp.sh && ./tcp.sh
 ```
 
-## swap.sh
-
-> SWAP虚拟内存脚本
+## SWAP虚拟内存脚本
 
