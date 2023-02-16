@@ -58,6 +58,12 @@ docker start con_name
 docker stop con_name
 ```
 
+重启名为con_name的容器
+
+```
+docker restart con_name
+```
+
 删除名为con_name的容器
 
 ```
