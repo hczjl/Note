@@ -58,6 +58,11 @@ wget -N --no-check-certificate "https://raw.githubusercontent.com/chiakge/Linux-
 
 如图，分别选择 2 和 7，根据提示即可开启成功。
 
+### 备份
+
+```bash
+wget -N --no-check-certificate "https://raw.githubusercontent.com/chiakge/Linux-NetSpeed/master/tcp.sh" && chmod +x tcp.sh && ./tcp.sh
+```
 
 ## swap.sh
 
