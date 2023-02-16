@@ -42,7 +42,21 @@ bash <(wget --no-check-certificate -qO- 'https://raw.githubusercontent.com/MoeCl
 bash <(wget --no-check-certificate -qO- 'https://raw.githubusercontent.com/hczjl/Note/main/InstallNET.sh') -d 11 -v 64 -p "自定义root密码" -port 22
 ```
 
+## 一键BBR加速脚本
 
+**BBR 原版/BBR 魔改/BBR plus/锐速 四合一脚本**
+
+登陆 ssh 运行`BBR 4 in 1 脚本`
+
+```bash
+wget -N --no-check-certificate "https://raw.githubusercontent.com/chiakge/Linux-NetSpeed/master/tcp.sh" && chmod +x tcp.sh && ./tcp.sh
+```
+
+安装BBR plus需要先安装内核
+
+![](https://gitee.com/hczjl/pic/raw/master/linux/bbr-1.png)
+
+如图，分别选择 2 和 7，根据提示即可开启成功。
 
 
 ## swap.sh
