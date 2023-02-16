@@ -64,5 +64,10 @@ wget -N --no-check-certificate "https://raw.githubusercontent.com/chiakge/Linux-
 wget -N --no-check-certificate "https://raw.githubusercontent.com/hczjl/Note/main/tcp.sh" && chmod +x tcp.sh && ./tcp.sh
 ```
 
-## SWAP虚拟内存脚本
+## SWAP虚拟内存脚本，默认单位为M。
+
+```
+wget https://raw.githubusercontent.com/hczjl/Note/main/swap.sh && chmod +x swap.sh && bash swap.sh
+```
+
 
