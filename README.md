@@ -66,8 +66,13 @@ wget -N --no-check-certificate "https://raw.githubusercontent.com/hczjl/Note/mai
 
 ## SWAP虚拟内存脚本，默认单位为M。
 
-```
+```bash
 wget https://raw.githubusercontent.com/hczjl/Note/main/swap.sh && chmod +x swap.sh && bash swap.sh
 ```
 
+## 获取Root权限，可改root密码的一键脚本
+
+```bash
+wget -N https://raw.githubusercontent.com/hczjl/Note/main/root.sh && bash root.sh
+```
 
