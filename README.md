@@ -76,3 +76,17 @@ wget https://raw.githubusercontent.com/hczjl/Note/main/swap.sh && chmod +x swap.
 wget -N https://raw.githubusercontent.com/hczjl/Note/main/root.sh && bash root.sh
 ```
 
+## 更改Linux服务器终端显示语言为中文
+
+```bash
+wget -N --no-check-certificate https://raw.githubusercontent.com/shidahuilang/btpanel/main/LocaleCN.sh && bash LocaleCN.sh
+```
+
+
+
+
+
+
+
+
+
